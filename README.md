@@ -37,3 +37,4 @@ Splash Screen (With Credits)
 'add @2x at export / save'
 'light / dark(default) mode'
 'check for updates'
+
